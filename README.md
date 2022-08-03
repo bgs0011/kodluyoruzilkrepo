@@ -1,5 +1,7 @@
-# kodluyoruzilkrepo
+# Kodluyoruz Ilk Repo
 [Kodluyoruz](https://www.kodluyoruz.org/)  Eğitimi kapsamında açtığım ilk repo
+
+![github png](https://github.com/bgs0011/kodluyoruzilkrepo/blob/main/figures/github.png?raw=true)
 
 ## Installation
 ___
@@ -27,3 +29,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 ___
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![markdown png](https://github.com/bgs0011/kodluyoruzilkrepo/blob/main/figures/markdown.png?raw=true)

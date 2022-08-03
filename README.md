@@ -31,3 +31,5 @@ ___
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![markdown png](https://github.com/bgs0011/kodluyoruzilkrepo/blob/main/figures/markdown.png?raw=true)
+
+[patika.dev profilim](https://app.patika.dev/uucriso)
